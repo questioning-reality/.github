@@ -1,4 +1,4 @@
-# Questioning Reality 💡
+# Questioning Reality
 Explorations of Virtual Reality  is a unique and thought-provoking project that explores the realm of social interactions in mediated environments, encompassing virtual reality (VR), augmented reality (AR), extended reality (XR), and mixed realities (MR). In a world where technology is rapidly shaping our perceptions of reality, Questioning Reality seeks to delve into the intricate interplay between social interactions and mediated environments.
  
 The initiative brings together leading scholars, industry professionals, and enthusiasts to collaboratively shape the future research landscape of VR through an annual conference hosted at the Data Sciences Institute at the University of Toronto, meetings at international events, and shared resources – all aimed at shaping a social interaction-informed agenda for the next research cycle on VR. 
